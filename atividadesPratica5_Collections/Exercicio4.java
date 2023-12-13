@@ -28,7 +28,7 @@ public class Exercicio4 {
 		
 		leia.close();
 		
-		//System.out.println("Números: " + numeros);
+		System.out.println("Números: " + numeros); //só fiz esse print para testar o que iria acontecer
 		
 		posicao = numeros.contains(numeroDigitado);
 		if(posicao == true) {

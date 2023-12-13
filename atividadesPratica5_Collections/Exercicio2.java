@@ -33,9 +33,5 @@ public class Exercicio2 {
 		}else {
 			System.out.println("\nO número " + numeroDigitado + " não foi encontrado!");
 		}
-		
-		
-
 	}
-
 }
